@@ -1,5 +1,5 @@
 body {
-  font-family: 'Courier New', Courier, monospace;
+  font-family: "Courier New", Courier, monospace;
 }
 
 img {
@@ -10,6 +10,9 @@ img {
 .title {
   font-size: 36px;
   font-weight: 900;
+  display: flex;
+  justify-content: center;
+  padding: 32px;
 }
 
 /* do not edit this footer */
@@ -24,3 +27,15 @@ img {
   justify-content: center;
   background: #eee;
 }
+.set {
+  display: flex;
+  gap: 52px;
+  padding: 0;
+  margin: 0;
+  justify-content: center;
+}
+.group {
+  text-align: center;
+  width: 200px;
+}
+/* 그룹으로 처리하면 안될거같은데*/
