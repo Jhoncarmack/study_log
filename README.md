@@ -17,3 +17,4 @@
 새로운 속성 (리스트의 기호를 없애주는) list-style: none;과  (a 요소 하이퍼링크 밑줄을 없애주는) text-decoration: none;에 대해서도 배웠다.
 <h6> 12월 4일: </h6> <p> The Holy Grail of Layout 레이아웃의 성배를 만들었다. flex-wrap 속성을 통해 페이지가 가로로 스크롤하는 배너에서 한눈에 들어오는 페이지로 만들었다. footer를 바닥으로 밀려면 flex-direction으로 변경해야 한다. flex:1이란 속성도 있는데 flex:1은 flex-grow, flex-shirink, flex-basis가 각각 1,1,0이다.
 그러나 각각의 기본값은 0,1,auto이다. 이번에 flex:1을 적용했을때 flex-item이 성장계수로 참고하여 추가공간이 있을경우 성장계수에 맞게 컨테이너를 늘린다.
+<h6> 12월 7일 <h6> <p> 전반적인 flexbox에 대해 복습중이다.</p>
