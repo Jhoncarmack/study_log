@@ -22,4 +22,5 @@
 <h6>12월 22일:</h6> <p> 지난 10일간 landing page 프로젝트에 집중하느라 공부 기록 업데이트가 늦어졌다. 이번 프로젝트를 통해 Flexbox를 사용하여 다양한 레이아웃을 구성하는 방법을 실습했다.</p> <p>프로젝트를 진행하며 flex 컨테이너와 flex 아이템의 관계를 깊이 이해하게 되었고, CSS 가이드라인을 준수하면서 가독성 높은 페이지를 디자인하는 데 집중했다. 또 높이를 화면에 꽉채울려면 . body와 그의 부모인 html에 height:100% 그리고 해당 높이 꽉채울려는 요소에도 height:100%을 하면 된다는 것을 알았다.</p>
 <h6>12월 26일: <h6> <p> 오늘은 자바 스크립트 기초에 대해 공부하였음. 자바스크립트의 대표적인 8개 데이터 유형을 공부하였음. 1.number 2. BigInt 3. String 4.Boolean 5.null 6. undefined 7. object 8. Symbol</p>
 <h6>12월 27일: <h6> <p> <a href = "https://www.w3schools.com/js/js_string_methods.asp"> W3Schools<a> lesson에서 String methods에 대해 공부하였습니다.
-<h6>12월 28일: <h6> <p> <a href = "https://replit.com/@OdinProject/direction-follow#follow.js"> direction-follow <a>에서 String 조합을 이용한 문장 생성에 대해 공부하였습니다.
+<h6>12월 28일: <h6> <p> <a href = "https://replit.com/@OdinProject/direction-follow#follow.js"> direction-follow <a>에서 g에 대해 공부하였습니다.
+<h6> 12월 29일 <h6> <p> JavaScript의 String 객체와 관련된 다양한 개념들을 살펴보았고, 27일날에 이어 메서드에 대해 추가적으로 학습하였습니다.<p>
