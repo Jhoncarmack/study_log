@@ -24,3 +24,4 @@
 <h6>12월 27일: <h6> <p> <a href = "https://www.w3schools.com/js/js_string_methods.asp"> W3Schools<a> lesson에서 String methods에 대해 공부하였습니다.
 <h6>12월 28일: <h6> <p> <a href = "https://replit.com/@OdinProject/direction-follow#follow.js"> direction-follow <a>에서 g에 대해 공부하였습니다.
 <h6> 12월 29일 <h6> <p> JavaScript의 String 객체와 관련된 다양한 개념들을 살펴보았고, 27일날에 이어 메서드에 대해 추가적으로 학습하였습니다.<p>
+<h6> 12월 30일 <h6> <p> JavaScript의 조건부 학습의 첫 단계 비교와 그다음 논리연산자에 관한 개념을 학습하였습니다.<p>
