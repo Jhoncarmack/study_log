@@ -28,3 +28,4 @@
 <h6> 12월 31일 <h6> <p> JavaScript의 조건부 학습 나머지 부분 부울변환 , if ... else 문, switch문, 삼항연산자 개념을 학습하였습니다.<p>
 <h6> 1월 1일 <h6> <p> 조건부 복습 및 스스로 지식점검을 해보았습니다. 그리고 정규표현식 개념들을 살펴보았습니다.<p>
 <h6> 1월 2일 <h6> <p> 정규표현식 , regex에 대해 학습하였습니다. 그리고 Javascript Developer Tools를 살펴보았습니다.
+<h6> 1월 3일 <h6> <p><a href = "https://developer.chrome.com/docs/devtools/css/reference/">DevTools CSS 기능참조</a> 부분 학습중입니다.</p>
