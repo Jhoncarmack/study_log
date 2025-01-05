@@ -29,4 +29,5 @@
 <h6> 1월 1일 <h6> <p> 조건부 복습 및 스스로 지식점검을 해보았습니다. 그리고 정규표현식 개념들을 살펴보았습니다.<p>
 <h6> 1월 2일 <h6> <p> 정규표현식 , regex에 대해 학습하였습니다. 그리고 Javascript Developer Tools를 살펴보았습니다.
 <h6> 1월 3일 <h6> <p><a href = "https://developer.chrome.com/docs/devtools/css/reference/">DevTools CSS 기능참조</a> 부분 학습중입니다.</p>
-<h6> 1월 4일 <h6> <p>DevTools CSS 기능참조 학습과 <a href = "https://developer.chrome.com/docs/devtools/dom?hl=ko">DOM 보기 및 변경 시작하기 </a> 부분 학습중입니다. </p>
+<h6> 1월 4일 <h6> <p>DevTools CSS 기능참조 학습과 <a href = "https://developer.chrome.com/docs/devtools/dom?hl=ko">g </a> 부분 학습중입니다. </p>
+<h6> 1월 5일 <h6> <p><a href = "https://developer.chrome.com/docs/devtools/javascript/">Debug Javascript<a>자료를 통해 DevTools에서 JavaScript 문제를 디버깅하는 기본 워크플로를 학습했습니다.<p>
