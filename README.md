@@ -31,3 +31,4 @@
 <h6> 1월 3일 <h6> <p><a href = "https://developer.chrome.com/docs/devtools/css/reference/">DevTools CSS 기능참조</a> 부분 학습중입니다.</p>
 <h6> 1월 4일 <h6> <p>DevTools CSS 기능참조 학습과 <a href = "https://developer.chrome.com/docs/devtools/dom?hl=ko">g </a> 부분 학습중입니다. </p>
 <h6> 1월 5일 <h6> <p><a href = "https://developer.chrome.com/docs/devtools/javascript/">Debug Javascript<a>자료를 통해 DevTools에서 JavaScript 문제를 디버깅하는 기본 워크플로를 학습했습니다.<p>
+<h6> 1월 6일 <h6> <p>Devtools로 중단점을 사용하여 코드 일시중지를 해보았습니다. Javascript Function Basics 학습중입니다.<p>
