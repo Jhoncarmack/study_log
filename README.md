@@ -34,3 +34,4 @@
 <h6> 1월 6일 <h6> <p>Devtools로 중단점을 사용하여 코드 일시중지를 해보았습니다. Javascript Function Basics 학습중입니다.<p>
 <h6> 1월 7일 <h6> <p> Javascript Function Basics 학습중입니다. <a href = "https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Scripting/Functions">MDN article on functions</a> 을 살폈고, 특히 함수범위(Function Scope)에 주목해서 개념을 살폈습니다. <p>
 <h6> 1월 8일 <h6> <p> Javascript.info에서 Function basics 학습중입니다.<p>
+<h6> 1월 9일 <h6> <p> Javascrpt.info 사이트에서 function expressions와 arrow functions (함수표현식과 화살표함수)에대해 배웠습니다.<p>
