@@ -36,3 +36,4 @@
 <h6> 1월 8일 <h6> <p> Javascript.info에서 Function basics 학습중입니다.<p>
 <h6> 1월 9일 <h6> <p> Javascrpt.info 사이트에서 Function basics 남은 부분 학습과  function expressions 그리고 arrow functions (함수표현식, 화살표함수)에대해 배웠습니다.<p>
 <h6> 1월 10일 <h6> <p> Javascrpit Call Stack 그리고  add7 , multifly, capitalize, lastLetter 각 함수를 작성하고 console.log로 출력을 테스트 했습니다. let과 var를 사용하는 것의 차이점을 살펴봤습니다.<p>
+<h6> 1월 11일 <h6> <p> JavaScript 코드는 어떻게 실행되는지에 대해 학습했습니다. 컨텍스트에 대한 개념을 확인했고, 처음엔 memory creation , 그다음엔 code execution으로 동작하는 걸 알았고 js엔진은 Call Stack을 통해 컨텍스트들을 관리한다는 것을 학습했습니다. <p>
