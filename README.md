@@ -41,3 +41,4 @@
 <h6> 1월 13일 <h6> <p> 리차드 레이스의 프로그래머처럼 생각하는 법 기사를 통해 문제 해결에 대한 교훈을 읽어보았습니다.<p>
 <h6> 1월 14일 <h6> <p> 코딩 테크의 How to Begin Thinking Like a Programmer 영상을 시청 하였고, 진정한 프로그래밍 학습은 언어나 문법보다 문제 해결 능력이라는 것을 알았습니다.<p>
 <h6> 1월 15일</h6> <p> Understanding Errors 자바스크립트 오류에 대해 학습중입니다.<p>
+<h6> 1월 16일</h6> <p> 일반적인 오류 유형 Syntax error ,Reference  error, Type error 를 살펴보았습니다.<p>
