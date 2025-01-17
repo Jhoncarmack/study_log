@@ -42,3 +42,4 @@
 <h6> 1월 14일 <h6> <p> 코딩 테크의 How to Begin Thinking Like a Programmer 영상을 시청 하였고, 진정한 프로그래밍 학습은 언어나 문법보다 문제 해결 능력이라는 것을 알았습니다.<p>
 <h6> 1월 15일</h6> <p> Understanding Errors 자바스크립트 오류에 대해 학습중입니다.<p>
 <h6> 1월 16일</h6> <p> 일반적인 오류 유형 Syntax error ,Reference  error, Type error 를 살펴보았습니다.<p>
+<h6> 1월 17일 </h6> <p> 오류해결을 위한 팁과 오류와 경고의 차이를 확인했습니다.<p>
