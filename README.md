@@ -43,3 +43,4 @@
 <h6> 1월 15일</h6> <p> Understanding Errors 자바스크립트 오류에 대해 학습중입니다.<p>
 <h6> 1월 16일</h6> <p> 일반적인 오류 유형 Syntax error ,Reference  error, Type error 를 살펴보았습니다.<p>
 <h6> 1월 17일 </h6> <p> 오류해결을 위한 팁과 오류와 경고의 차이를 확인했습니다.<p>
+<h6> 1월 18일 </h6> <p> mdn 문서 <a href = "https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Scripting/What_went_wrong">What went wrong? Troubleshooting JavaScript</a> 과정에 따라 Javascript 오류 해결을 간단하게 실습해보았습니다.
