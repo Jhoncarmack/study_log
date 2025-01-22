@@ -45,3 +45,4 @@
 <h6> 1월 17일 </h6> <p> 오류해결을 위한 팁과 오류와 경고의 차이를 확인했습니다.<p>
 <h6> 1월 18일 </h6> <p> mdn 문서 <a href = "https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Scripting/What_went_wrong">What went wrong? Troubleshooting JavaScript</a> 과정에 따라 Javascript 오류 해결을 간단하게 실습해보았습니다.
 <h6> 1월 20일</h6><a href = "https://www.youtube.com/watch?v=TqPrpglfE9c">Chrome 개발자 도구 콘솔에 대한 비디오</a>를 시청했습니다.
+<h6> 1월 22일</h6> <p>프로젝트: 가위바위보 게임을 만들기로 하고, 어떤 기능이 필요한가에 대해 생각해 보았습니다.</p>
